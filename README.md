@@ -1,2 +1,7 @@
 # one-missing-challenge
-You are given an array with integers between 1 and 100,000, but one integer is missing. Write a function that determines the missing value.
+
+You are given an unsorted array with integers between 1 and 100,000, but one integer is missing. Write a function that determines the missing value.
+
+Run the command `npm install` to install the required dependencies.
+
+Run the command `npm test` to test.

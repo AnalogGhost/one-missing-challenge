@@ -1,0 +1,23 @@
+{
+  "name": "one-missing-challenge",
+  "version": "1.0.0",
+  "description": "You are given an array with integers between 1 and 100,000, but one integer is missing. Write a function that determines the missing value.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghost-/one-missing-challenge.git"
+  },
+  "author": "Mathew Brown",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.3.0",
+    "chai": "^3.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ghost-/one-missing-challenge/issues"
+  },
+  "homepage": "https://github.com/ghost-/one-missing-challenge#readme"
+}
